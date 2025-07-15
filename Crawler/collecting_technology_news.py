@@ -1,13 +1,13 @@
 geekforgeek_seed_url = "https://www.geeksforgeeks.org/machine-learning/machine-learning/"
-medium_seed_url = "https://medium.com/tag/programming"
-tech_seed_url = "https://medium.com/tag/technology"
-ai_seed_url = "https://medium.com/tag/artificial-intelligence"
+dl_seed_url = "https://www.geeksforgeeks.org/deep-learning/deep-learning-tutorial/"
+cv_seed_url = "https://www.geeksforgeeks.org/computer-vision/computer-vision/"
+ai_seed_url = "https://www.geeksforgeeks.org/artificial-intelligence/artificial-intelligence/"
 
 seed_urls = [
     geekforgeek_seed_url,
-    medium_seed_url,
-    tech_seed_url,
-    ai_seed_url
+    dl_seed_url,
+    cv_seed_url,
+    ai_seed_url,
 ]
 
 # Import the defined crawling function
